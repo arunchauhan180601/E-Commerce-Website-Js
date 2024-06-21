@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "laptop",
+    "category": "Computers",
+    "brand": "ExampleBrand",
+    "price": 999.99,
+    "actualPrice": 3000.99,
+    "stock": 50,
+    "decription": "PowerFul laptop with aquad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display",
+    "image": "../images/computer.png"
+  },
+  {
+    "id": 2,
+    "name": "SmartPhone",
+    "category": "Mobiles",
+    "brand": "TechGedget",
+    "price": 9999.00,
+    "actualPrice": 3000.99,
+    "stock": 100,
+    "decription": "PowerFul laptop with aquad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display",
+    "image": "../images/smartphone.png"
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "category": "Audio",
+    "brand": "Boat",
+    "price": 799.99,
+    "actualPrice": 1199.99,
+    "stock": 350,
+    "decription": "PowerFul laptop with aquad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display",
+    "image": "../images/headphone(2).png"
+  },
+  {
+    "id": 4,
+    "name": "watches",
+    "category": "Wearables",
+    "brand": "Firebolt",
+    "price": 7689.99,
+    "actualPrice": 1000.00,
+    "stock": 250,
+    "decription": "PowerFul laptop with aquad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display",
+    "image": "../images/watch.png"
+  },
+  {
+    "id": 5,
+    "name": "Speakers",
+    "category": "Audio",
+    "brand": "JBL",
+    "price": 3999.99,
+    "actualPrice": 4999.99,
+    "stock": 70,
+    "decription": "PowerFul laptop with aquad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display",
+    "image": "../images/speakers.png"
+  },
+  {
+    "id": 6,
+    "name": "Television",
+    "category": "Video",
+    "brand": "Sony",
+    "price": 8999.00,
+    "actualPrice": 12000.99,
+    "stock": 150,
+    "decription": "PowerFul laptop with aquad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display",
+    "image": "../images/tv.png"
+  }
+]
